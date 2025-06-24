@@ -12,19 +12,21 @@ DURATION : 4 WEEKS
 
 MENTOR : MUZAMMIL AHMED
 
-REST_API_CLIENT
-WeatherFetcher
+# REST_API_CLIENT
+
+# WeatherFetcher
 A simple Java application that fetches real-time weather data using a public REST API (OpenWeatherMap) and displays it in a user-friendly format.
 
-Features
+# Features
 Uses Java 11+ HTTP client
 Parses JSON responses
 Displays temperature, humidity, and weather description
-Requirements
+
+# Requirements
 Java 11 or later
 Internet access
 org.json library (add to classpath)
 
-#output:
+# Output:
 
 [WeatherFetcher1.txt](https://github.com/user-attachments/files/20887675/WeatherFetcher1.txt)
