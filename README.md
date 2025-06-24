@@ -12,7 +12,6 @@ DURATION : 4 WEEKS
 
 MENTOR : MUZAMMIL AHMED
 
-# REST_API_CLIENT
 
 # WeatherFetcher
 A simple Java application that fetches real-time weather data using a public REST API (OpenWeatherMap) and displays it in a user-friendly format.
