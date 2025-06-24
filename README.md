@@ -27,3 +27,4 @@ org.json library (add to classpath)
 
 #output:
 
+[WeatherFetcher1.txt](https://github.com/user-attachments/files/20887675/WeatherFetcher1.txt)
