@@ -1,17 +1,5 @@
 # REST_API_CLIENT
 
-COMPANY : CODTECH IT SOLUTIONS
-
-NAME : PRANAY KALAMKAR
-
-INTERN ID : CITSOD646
-
-DOMAIN : JAVA PROGRAMMING
-
-DURATION : 4 WEEKS
-
-MENTOR : MUZAMMIL AHMED
-
 
 # WeatherFetcher
 A simple Java application that fetches real-time weather data using a public REST API (OpenWeatherMap) and displays it in a user-friendly format.
